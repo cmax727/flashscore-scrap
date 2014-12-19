@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="SiteScrapper">
+</Property><Property Name="Solution File" Value="D:\WWWWW-WORK\z FlashScore-Scrape\SiteScrap-c#\SiteScrapper.sln">
+</Property><Property Name="User Options File" Value="D:\WWWWW-WORK\z FlashScore-Scrape\SiteScrap-c#\SiteScrapper.suo">
+</Property><Property Name="Date" Value="Friday, October 12, 2012">
+</Property><Property Name="Time" Value="4:51 AM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="SiteScrapper.sln" Description="File successfully backed up as D:\WWWWW-WORK\z FlashScore-Scrape\SiteScrap-c#\Backup\SiteScrapper.sln">
+</Event><Event ErrorLevel="0" Project="" Source="SiteScrapper.suo" Description="File successfully backed up as D:\WWWWW-WORK\z FlashScore-Scrape\SiteScrap-c#\Backup\SiteScrapper.suo">
+</Event><Event ErrorLevel="0" Project="SiteScrapper" Source="SiteScrapper.csproj" Description="Project file successfully backed up as D:\WWWWW-WORK\z FlashScore-Scrape\SiteScrap-c#\Backup\SiteScrapper.csproj">
+</Event><Event ErrorLevel="0" Project="SiteScrapper" Source="SiteScrapper.csproj.user" Description="Project user file successfully backed up as D:\WWWWW-WORK\z FlashScore-Scrape\SiteScrap-c#\Backup\SiteScrapper.csproj.user">
+</Event><Event ErrorLevel="0" Project="SiteScrapper" Source="Settings.cs" Description="File successfully backed up as D:\WWWWW-WORK\z FlashScore-Scrape\SiteScrap-c#\Backup\Settings.cs">
+</Event><Event ErrorLevel="0" Project="SiteScrapper" Source="ssc\DBConfig.cs" Description="File successfully backed up as D:\WWWWW-WORK\z FlashScore-Scrape\SiteScrap-c#\Backup\ssc\DBConfig.cs">
+</Event><Event ErrorLevel="0" Project="SiteScrapper" Source="ssc\Agent.cs" Description="File successfully backed up as D:\WWWWW-WORK\z FlashScore-Scrape\SiteScrap-c#\Backup\ssc\Agent.cs">
+</Event><Event ErrorLevel="0" Project="SiteScrapper" Source="Form1.cs" Description="File successfully backed up as D:\WWWWW-WORK\z FlashScore-Scrape\SiteScrap-c#\Backup\Form1.cs">
+</Event><Event ErrorLevel="0" Project="SiteScrapper" Source="Form1.Designer.cs" Description="File successfully backed up as D:\WWWWW-WORK\z FlashScore-Scrape\SiteScrap-c#\Backup\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="SiteScrapper" Source="ssc\games\TotalUpdater.cs" Description="File successfully backed up as D:\WWWWW-WORK\z FlashScore-Scrape\SiteScrap-c#\Backup\ssc\games\TotalUpdater.cs">
+</Event><Event ErrorLevel="0" Project="SiteScrapper" Source="ssc\games\SoccerObject.cs" Description="File successfully backed up as D:\WWWWW-WORK\z FlashScore-Scrape\SiteScrap-c#\Backup\ssc\games\SoccerObject.cs">
+</Event><Event ErrorLevel="0" Project="SiteScrapper" Source="Program.cs" Description="File successfully backed up as D:\WWWWW-WORK\z FlashScore-Scrape\SiteScrap-c#\Backup\Program.cs">
+</Event><Event ErrorLevel="0" Project="SiteScrapper" Source="Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\WWWWW-WORK\z FlashScore-Scrape\SiteScrap-c#\Backup\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="SiteScrapper" Source="Properties\Resources.Designer.cs" Description="File successfully backed up as D:\WWWWW-WORK\z FlashScore-Scrape\SiteScrap-c#\Backup\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="SiteScrapper" Source="Properties\Settings.Designer.cs" Description="File successfully backed up as D:\WWWWW-WORK\z FlashScore-Scrape\SiteScrap-c#\Backup\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="SiteScrapper" Source="ssc\Util.cs" Description="File successfully backed up as D:\WWWWW-WORK\z FlashScore-Scrape\SiteScrap-c#\Backup\ssc\Util.cs">
+</Event><Event ErrorLevel="0" Project="SiteScrapper" Source="Properties\Settings.settings" Description="File successfully backed up as D:\WWWWW-WORK\z FlashScore-Scrape\SiteScrap-c#\Backup\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="SiteScrapper" Source="App.config" Description="File successfully backed up as D:\WWWWW-WORK\z FlashScore-Scrape\SiteScrap-c#\Backup\App.config">
+</Event><Event ErrorLevel="0" Project="SiteScrapper" Source="cal.ico" Description="File successfully backed up as D:\WWWWW-WORK\z FlashScore-Scrape\SiteScrap-c#\Backup\cal.ico">
+</Event><Event ErrorLevel="0" Project="SiteScrapper" Source="Form1.resx" Description="File successfully backed up as D:\WWWWW-WORK\z FlashScore-Scrape\SiteScrap-c#\Backup\Form1.resx">
+</Event><Event ErrorLevel="0" Project="SiteScrapper" Source="Properties\Resources.resx" Description="File successfully backed up as D:\WWWWW-WORK\z FlashScore-Scrape\SiteScrap-c#\Backup\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="SiteScrapper" Source="SiteScrapper.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="SiteScrapper" Source="SiteScrapper.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="" Source="SiteScrapper.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="SiteScrapper.sln" Description="Converted">
+</Event></UpgradeLog>

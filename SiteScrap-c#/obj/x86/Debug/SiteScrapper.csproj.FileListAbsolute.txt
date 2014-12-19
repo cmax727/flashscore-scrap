@@ -1,0 +1,40 @@
+C:\Users\saf\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WinFlashScore.exe.config
+C:\Users\saf\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WinFlashScore.exe
+C:\Users\saf\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WinFlashScore.pdb
+C:\Users\saf\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\saf\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\ssc.Form1.resources
+C:\Users\saf\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\ssc.Properties.Resources.resources
+C:\Users\saf\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\SiteScrapper.csproj.GenerateResource.Cache
+C:\Users\saf\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WinFlashScore.exe
+C:\Users\saf\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WinFlashScore.pdb
+F:\Work\SiteScrap-c#\bin\Debug\WinFlashScore.exe.config
+F:\Work\SiteScrap-c#\obj\x86\Debug\WinFlashScore.exe
+F:\Work\SiteScrap-c#\obj\x86\Debug\WinFlashScore.pdb
+F:\Work\SiteScrap-c#\bin\Debug\WinFlashScore.exe
+F:\Work\SiteScrap-c#\bin\Debug\WinFlashScore.pdb
+F:\Work\SiteScrap-c#\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Work\SiteScrap-c#\obj\x86\Debug\ssc.Form1.resources
+F:\Work\SiteScrap-c#\obj\x86\Debug\ssc.Properties.Resources.resources
+F:\Work\SiteScrap-c#\obj\x86\Debug\SiteScrapper.csproj.GenerateResource.Cache
+D:\WWWWW-WORK\SiteScrap-c#\bin\Debug\WinFlashScore.exe.config
+D:\WWWWW-WORK\SiteScrap-c#\obj\x86\Debug\WinFlashScore.exe
+D:\WWWWW-WORK\SiteScrap-c#\obj\x86\Debug\WinFlashScore.pdb
+D:\WWWWW-WORK\SiteScrap-c#\bin\Debug\WinFlashScore.exe
+D:\WWWWW-WORK\SiteScrap-c#\bin\Debug\WinFlashScore.pdb
+D:\WWWWW-WORK\SiteScrap-c#\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\WWWWW-WORK\SiteScrap-c#\obj\x86\Debug\ssc.Form1.resources
+D:\WWWWW-WORK\SiteScrap-c#\obj\x86\Debug\ssc.Properties.Resources.resources
+D:\WWWWW-WORK\SiteScrap-c#\obj\x86\Debug\SiteScrapper.csproj.GenerateResource.Cache
+D:\WWWWW-WORK\FlashScore-Scrape\SiteScrap-c#\bin\Debug\WinFlashScore.exe.config
+D:\WWWWW-WORK\FlashScore-Scrape\SiteScrap-c#\obj\x86\Debug\WinFlashScore.pdb
+D:\WWWWW-WORK\FlashScore-Scrape\SiteScrap-c#\bin\Debug\WinFlashScore.exe
+D:\WWWWW-WORK\FlashScore-Scrape\SiteScrap-c#\bin\Debug\WinFlashScore.pdb
+D:\WWWWW-WORK\FlashScore-Scrape\SiteScrap-c#\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\WWWWW-WORK\FlashScore-Scrape\SiteScrap-c#\obj\x86\Debug\ssc.Form1.resources
+D:\WWWWW-WORK\FlashScore-Scrape\SiteScrap-c#\obj\x86\Debug\ssc.Properties.Resources.resources
+D:\WWWWW-WORK\FlashScore-Scrape\SiteScrap-c#\obj\x86\Debug\WinFlashScore.exe
+D:\WWWWW-WORK\FlashScore-Scrape\SiteScrap-c#\obj\x86\Debug\ResGen.read.1.tlog
+D:\WWWWW-WORK\FlashScore-Scrape\SiteScrap-c#\obj\x86\Debug\ResGen.write.1.tlog
+D:\WWWWW-WORK\06 old\FlashScore-Scrape\SiteScrap-c#\bin\Debug\WinFlashScore.exe.config
+D:\WWWWW-WORK\06 old\FlashScore-Scrape\SiteScrap-c#\obj\x86\Debug\WinFlashScore.exe
+D:\WWWWW-WORK\06 old\FlashScore-Scrape\SiteScrap-c#\obj\x86\Debug\WinFlashScore.pdb

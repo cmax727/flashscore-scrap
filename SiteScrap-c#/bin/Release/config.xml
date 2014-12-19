@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<appSettings>
+	<add key="host" value="191.168.0.41"/>
+	<add key="database" value="ssc"/>
+	<add key="user" value="root"/>
+	<add key="password" value="root"/>
+	<add key="charset" value="utf8"/>
+	<add key="port" value="3306"/>
+	<add key="ClientSettingsProvider.ServiceUri" value="" />
+</appSettings>

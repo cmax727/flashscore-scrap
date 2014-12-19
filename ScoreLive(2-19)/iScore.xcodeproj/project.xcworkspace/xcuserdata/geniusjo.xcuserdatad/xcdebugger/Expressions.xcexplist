@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesStackState
+   version = "1.0">
+   <StackStates>
+      <StackState
+         stackFrameDescription = "-[SoccerVC tableView:cellForRowAtIndexPath:]:SoccerVC.m">
+         <expressions>
+            <expression
+               value = "jsonData">
+            </expression>
+            <expression
+               value = "result">
+            </expression>
+         </expressions>
+      </StackState>
+      <StackState
+         stackFrameDescription = "main:main.m">
+         <expressions>
+            <expression
+               value = "favoriteVC">
+            </expression>
+         </expressions>
+      </StackState>
+      <StackState
+         stackFrameDescription = "-[PresentVC loadMyData]:PresentVC.m">
+         <expressions>
+            <expression
+               value = "g_code">
+            </expression>
+         </expressions>
+      </StackState>
+      <StackState
+         stackFrameDescription = "-[FavoriteEditVC SaveFavorite]:FavoriteEditVC.m">
+         <expressions>
+            <expression
+               value = "country_str">
+            </expression>
+         </expressions>
+      </StackState>
+   </StackStates>
+</VariablesStackState>

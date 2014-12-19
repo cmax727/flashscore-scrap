@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fl_145</key> <integer>0</integer>
+	<key>fl_51</key> <integer>24</integer>
+	<key>fl_201</key> <integer>48</integer>
+	<key>fl_17</key> <integer>72</integer>
+	<key>fl_31</key> <integer>96</integer>
+	<key>fl_62</key> <integer>120</integer>
+	<key>fl_77</key> <integer>144</integer>
+	<key>fl_98</key> <integer>168</integer>
+	<key>fl_61</key> <integer>192</integer>
+	<key>fl_91</key> <integer>216</integer>
+	<key>fl_25</key> <integer>264</integer>
+	<key>fl_83</key> <integer>288</integer>
+	<key>fl_171</key> <integer>312</integer>
+	<key>fl_181</key> <integer>336</integer>
+	<key>fl_195</key> <integer>360</integer>
+	<key>fl_22</key> <integer>408</integer>
+	<key>fl_128</key> <integer>432</integer>
+	<key>fl_200</key> <integer>456</integer>
+	<key>fl_198</key> <integer>480</integer>
+	<key>fl_41</key> <integer>504</integer>
+	<key>fl_63</key> <integer>528</integer>
+	<key>fl_96</key> <integer>552</integer>
+	<key>fl_97</key> <integer>576</integer>
+	<key>fl_116</key> <integer>600</integer>
+	<key>fl_81</key> <integer>624</integer>
+	<key>fl_154</key> <integer>648</integer>
+	<key>fl_157</key> <integer>672</integer>
+	<key>fl_172</key> <integer>720</integer>
+	<key>fl_182</key> <integer>744</integer>
+	<key>fl_207</key> <integer>768</integer>
+	<key>fl_170</key> <integer>792</integer>
+	<key>fl_39</key> <integer>816</integer>
+	<key>fl_152</key> <integer>840</integer>
+	<key>fl_153</key> <integer>3169</integer>
+	<key>fl_100</key> <integer>864</integer>
+	<key>fl_32</key> <integer>888</integer>
+	<key>fl_59</key> <integer>912</integer>
+	<key>fl_76</key> <integer>936</integer>
+	<key>fl_92</key> <integer>960</integer>
+	<key>fl_110</key> <integer>1008</integer>
+	<key>fl_139</key> <integer>1032</integer>
+	<key>fl_155</key> <integer>1056</integer>
+	<key>fl_158</key> <integer>1080</integer>
+	<key>fl_199</key> <integer>1104</integer>
+	<key>fl_176</key> <integer>1128</integer>
+	<key>fl_191</key> <integer>1152</integer>
+	<key>fl_24</key> <integer>1176</integer>
+	<key>fl_02</key> <integer>1224</integer>
+	<key>fl_53</key> <integer>1344</integer>
+	<key>fl_47</key> <integer>1368</integer>
+	<key>fl_52</key> <integer>1392</integer>
+	<key>fl_167</key> <integer>1440</integer>
+	<key>fl_118</key> <integer>1464</integer>
+	<key>fl_85</key> <integer>1488</integer>
+	<key>fl_73</key> <integer>1512</integer>
+	<key>fl_68</key> <integer>1536</integer>
+	<key>fl_57</key> <integer>1560</integer>
+	<key>fl_37</key> <integer>1608</integer>
+	<key>fl_175</key> <integer>1656</integer>
+	<key>fl_23</key> <integer>1680</integer>
+	<key>fl_69</key> <integer>1704</integer>
+	<key>fl_231</key> <integer>1728</integer>
+	<key>fl_82</key> <integer>1752</integer>
+	<key>fl_95</key> <integer>1776</integer>
+	<key>fl_94</key> <integer>1800</integer>
+	<key>fl_101</key> <integer>1824</integer>
+	<key>fl_102</key> <integer>1848</integer>
+	<key>fl_103</key> <integer>1872</integer>
+	<key>fl_119</key> <integer>1896</integer>
+	<key>fl_121</key> <integer>1920</integer>
+	<key>fl_130</key> <integer>1944</integer>
+	<key>fl_135</key> <integer>1968</integer>
+	<key>fl_166</key> <integer>1992</integer>
+	<key>fl_144</key> <integer>2016</integer>
+	<key>fl_183</key> <integer>2040</integer>
+	<key>fl_194</key> <integer>2088</integer>
+	<key>fl_185</key> <integer>2112</integer>
+	<key>fl_18</key> <integer>2160</integer>
+	<key>fl_70</key> <integer>2184</integer>
+	<key>fl_90</key> <integer>2208</integer>
+	<key>fl_36</key> <integer>2232</integer>
+	<key>fl_222</key> <integer>2256</integer>
+	<key>fl_107</key> <integer>2280</integer>
+	<key>fl_117</key> <integer>2304</integer>
+	<key>fl_151</key> <integer>2328</integer>
+	<key>fl_134</key> <integer>2352</integer>
+	<key>fl_133</key> <integer>2376</integer>
+	<key>fl_156</key> <integer>2400</integer>
+	<key>fl_124</key> <integer>2424</integer>
+	<key>fl_186</key> <integer>2448</integer>
+	<key>fl_190</key> <integer>2472</integer>
+	<key>fl_26</key> <integer>2496</integer>
+	<key>fl_205</key> <integer>2520</integer>
+	<key>fl_28</key> <integer>2544</integer>
+	<key>fl_80</key> <integer>2568</integer>
+	<key>fl_196</key> <integer>2592</integer>
+	<key>fl_187</key> <integer>2616</integer>
+	<key>fl_106</key> <integer>2640</integer>
+	<key>fl_111</key> <integer>2664</integer>
+	<key>fl_146</key> <integer>2688</integer>
+	<key>fl_206</key> <integer>2736</integer>
+	<key>fl_19</key> <integer>2760</integer>
+	<key>fl_46</key> <integer>2784</integer>
+	<key>fl_178</key> <integer>2808</integer>
+	<key>fl_93</key> <integer>2832</integer>
+	<key>fl_228</key> <integer>2856</integer>
+	<key>fl_114</key> <integer>2880</integer>
+	<key>fl_136</key> <integer>2904</integer>
+	<key>fl_208</key> <integer>2928</integer>
+	<key>fl_202</key> <integer>2952</integer>
+	<key>fl_140</key> <integer>2976</integer>
+	<key>fl_189</key> <integer>3000</integer>
+	<key>fl_210</key> <integer>3024</integer>
+	<key>fl_165</key> <integer>3048</integer>
+	<key>fl_20</key> <integer>3072</integer>
+	<key>fl_143</key> <integer>3096</integer>
+	<key>fl_197</key> <integer>3145</integer>
+	<key>fl_55</key> <integer>3120</integer>
+
+	<key>fl_1</key><integer>1200</integer>
+	<key>fl_2</key><integer>1200</integer>
+	<key>fl_3</key><integer>1200</integer>
+	<key>fl_4</key><integer>1200</integer>
+	<key>fl_5</key><integer>1200</integer>
+	<key>fl_6</key><integer>1200</integer>
+	<key>fl_7</key><integer>1200</integer>
+	<key>fl_8</key><integer>1200</integer>
+	<key>fl_9011</key> <integer>1248</integer>
+	<key>fl_9021</key> <integer>1272</integer>
+	<key>fl_9012</key> <integer>1296</integer>
+	<key>fl_9022</key> <integer>1320</integer>
+	<key>fl_9030</key> <integer>1632</integer>
+</dict>
+</plist>

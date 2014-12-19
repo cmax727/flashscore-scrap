@@ -1,0 +1,585 @@
+2/28/2012 16:58:07
+Grab Started.
+
+2/28/2012 16:58:12
+============GameData for : 2012/02/25============
+
+2/28/2012 16:58:12
+Register data for soccer at:1330128000	{
+
+2/28/2012 16:58:26
+##### REGISTER failed for soccer at:1330128000	{
+
+2/28/2012 16:58:26
+Register data for tennis at:1330128000	{
+
+2/28/2012 16:58:41
+	Finish register for tennis		}
+
+2/28/2012 16:58:41
+Register data for basketball at:1330128000	{
+
+2/28/2012 17:00:16
+Mysql connection established.
+
+2/28/2012 17:00:16
+Grab Started.
+
+2/28/2012 17:00:18
+============GameData for : 2012/02/25============
+
+2/28/2012 17:00:18
+Register data for soccer at:1330128000	{
+
+2/29/2012 00:01:59
+Mysql connection established.
+
+2/29/2012 00:01:59
+Grab Started.
+
+2/29/2012 00:01:59
+============GameData for : 2012/02/25============
+
+2/29/2012 00:01:59
+Register data for soccer at:1330128000	{
+
+2/29/2012 00:02:13
+##### REGISTER failed for soccer at:1330128000	{
+
+2/29/2012 00:02:13
+Register data for tennis at:1330128000	{
+
+2/29/2012 00:02:28
+	Finish register for tennis		}
+
+2/29/2012 00:02:28
+Register data for basketball at:1330128000	{
+
+2/29/2012 00:02:55
+	Finish register for basketball		}
+
+2/29/2012 00:02:55
+Register data for hockey at:1330128000	{
+
+2/29/2012 00:03:05
+   at ssc.games.TotalUpdater._registerData(String gameData) in D:\WWWWW-WORK\FlashScore-Scrape\SiteScrap-c#\ssc\games\TotalUpdater.cs:line 142
+
+2/29/2012 00:03:05
+	Finish register for hockey		}
+
+2/29/2012 00:03:05
+Register data for handball at:1330128000	{
+
+2/29/2012 00:03:18
+	Finish register for handball		}
+
+2/29/2012 00:03:18
+Register data for volleyball at:1330128000	{
+
+2/29/2012 00:03:43
+	Finish register for volleyball		}
+
+2/29/2012 00:03:43
+Register data for baseball at:1330128000	{
+
+2/29/2012 00:03:45
+	Finish register for baseball		}
+
+2/29/2012 00:03:45
+============GameData for : 2012/02/26============
+
+2/29/2012 00:03:45
+Register data for soccer at:1330214400	{
+
+2/29/2012 00:04:03
+   at ssc.games.TotalUpdater._registerData(String gameData) in D:\WWWWW-WORK\FlashScore-Scrape\SiteScrap-c#\ssc\games\TotalUpdater.cs:line 142
+
+2/29/2012 00:04:03
+	Finish register for soccer		}
+
+2/29/2012 00:04:03
+Register data for tennis at:1330214400	{
+
+2/29/2012 00:04:10
+	Finish register for tennis		}
+
+2/29/2012 00:04:10
+Register data for basketball at:1330214400	{
+
+2/29/2012 00:04:19
+   at ssc.games.TotalUpdater._registerData(String gameData) in D:\WWWWW-WORK\FlashScore-Scrape\SiteScrap-c#\ssc\games\TotalUpdater.cs:line 142
+
+2/29/2012 00:04:19
+	Finish register for basketball		}
+
+2/29/2012 00:04:19
+Register data for hockey at:1330214400	{
+
+2/29/2012 00:04:30
+	Finish register for hockey		}
+
+2/29/2012 00:04:30
+Register data for handball at:1330214400	{
+
+2/29/2012 00:04:36
+	Finish register for handball		}
+
+2/29/2012 00:04:36
+Register data for volleyball at:1330214400	{
+
+2/29/2012 00:04:49
+	Finish register for volleyball		}
+
+2/29/2012 00:04:49
+Register data for baseball at:1330214400	{
+
+2/29/2012 00:04:51
+	Finish register for baseball		}
+
+2/29/2012 00:04:51
+============GameData for : 2012/02/27============
+
+2/29/2012 00:04:51
+Register data for soccer at:1330300800	{
+
+2/29/2012 00:04:56
+	Finish register for soccer		}
+
+2/29/2012 00:04:56
+Register data for tennis at:1330300800	{
+
+2/29/2012 00:05:09
+	Finish register for tennis		}
+
+2/29/2012 00:05:09
+Register data for basketball at:1330300800	{
+
+2/29/2012 00:05:12
+	Finish register for basketball		}
+
+2/29/2012 00:05:12
+Register data for hockey at:1330300800	{
+
+2/29/2012 00:05:15
+	Finish register for hockey		}
+
+2/29/2012 00:05:15
+Register data for handball at:1330300800	{
+
+2/29/2012 00:05:16
+	Finish register for handball		}
+
+2/29/2012 00:05:16
+Register data for volleyball at:1330300800	{
+
+2/29/2012 00:05:18
+	Finish register for volleyball		}
+
+2/29/2012 00:05:18
+Register data for baseball at:1330300800	{
+
+2/29/2012 00:05:19
+	Finish register for baseball		}
+
+2/29/2012 00:05:19
+============GameData for : 2012/02/28============
+
+2/29/2012 00:05:19
+Register data for soccer at:1330387200	{
+
+2/29/2012 00:05:23
+   at ssc.games.TotalUpdater._registerData(String gameData) in D:\WWWWW-WORK\FlashScore-Scrape\SiteScrap-c#\ssc\games\TotalUpdater.cs:line 142
+
+2/29/2012 00:05:23
+	Finish register for soccer		}
+
+2/29/2012 00:05:23
+Register data for tennis at:1330387200	{
+
+2/29/2012 00:05:26
+   at ssc.games.TotalUpdater._registerData(String gameData) in D:\WWWWW-WORK\FlashScore-Scrape\SiteScrap-c#\ssc\games\TotalUpdater.cs:line 142
+
+2/29/2012 00:05:26
+	Finish register for tennis		}
+
+2/29/2012 00:05:26
+Register data for basketball at:1330387200	{
+
+2/29/2012 00:05:31
+	Finish register for basketball		}
+
+2/29/2012 00:05:31
+Register data for hockey at:1330387200	{
+
+2/29/2012 00:05:36
+	Finish register for hockey		}
+
+2/29/2012 00:05:36
+Register data for handball at:1330387200	{
+
+2/29/2012 00:05:38
+	Finish register for handball		}
+
+2/29/2012 00:05:38
+Register data for volleyball at:1330387200	{
+
+2/29/2012 00:05:41
+	Finish register for volleyball		}
+
+2/29/2012 00:05:41
+Register data for baseball at:1330387200	{
+
+2/29/2012 00:05:42
+	Finish register for baseball		}
+
+2/29/2012 00:05:42
+============GameData for : 2012/02/29============
+
+2/29/2012 00:05:42
+Register data for soccer at:1330473600	{
+
+2/29/2012 00:05:52
+	Finish register for soccer		}
+
+2/29/2012 00:05:52
+Register data for tennis at:1330473600	{
+
+2/29/2012 00:06:02
+	Finish register for tennis		}
+
+2/29/2012 00:06:02
+Register data for basketball at:1330473600	{
+
+2/29/2012 05:17:05
+Mysql connection established.
+
+2/29/2012 05:17:05
+Grab Started.
+
+2/29/2012 05:17:33
+No data.
+
+2/29/2012 05:20:51
+****** Now, retrying pre-failed game score refesh. ******
+
+2/29/2012 05:21:46
+****** Now, retrying pre-failed game score refesh. ******
+
+2/29/2012 05:26:19
+****** Now, retrying pre-failed game score refesh. ******
+
+2/29/2012 08:38:54
+No data.
+
+2/29/2012 08:42:06
+Mysql connection established.
+
+2/29/2012 08:42:06
+Grab Started.
+
+2/29/2012 08:42:06
+============GameData for : 2012/02/26============
+
+2/29/2012 08:42:06
+Register data for soccer at:1330214400	{
+
+2/29/2012 08:42:11
+##### REGISTER failed for soccer at:1330214400	{
+
+2/29/2012 08:42:11
+Register data for tennis at:1330214400	{
+
+2/29/2012 08:42:16
+Mysql connection established.
+
+2/29/2012 08:42:16
+Grab Started.
+
+2/29/2012 08:42:25
+No data.
+
+3/13/2012 02:44:21
+Mysql connection established.
+
+3/13/2012 02:44:21
+Grab Started.
+
+3/13/2012 02:44:23
+============GameData for : 2012/03/09============
+
+3/13/2012 02:44:23
+Register data for soccer at:1331251200	{
+
+3/13/2012 02:53:28
+Mysql connection established.
+
+3/13/2012 02:53:28
+Grab Started.
+
+3/13/2012 02:53:52
+No data.
+
+3/13/2012 02:54:29
+============GameData for : 2012/03/12============
+
+3/13/2012 02:54:29
+Register data for soccer at:1331510400	{
+
+3/13/2012 02:54:45
+Mysql connection established.
+
+3/13/2012 02:54:45
+Grab Started.
+
+3/13/2012 02:59:21
+============ Auto Refresh(interval 1 hr): 2012/03/12============
+
+3/13/2012 02:59:39
+============GameData for : 2012/03/11============
+
+3/13/2012 02:59:39
+Register data for soccer at:1331424000	{
+
+3/13/2012 03:00:10
+   at ssc.games.TotalUpdater._registerData(String gameData) in D:\WWWWW-WORK\FlashScore-Scrape\SiteScrap-c#\ssc\games\TotalUpdater.cs:line 143
+
+3/13/2012 03:00:10
+	Finish register for soccer		}
+
+3/13/2012 03:00:10
+Register data for tennis at:1331424000	{
+
+3/13/2012 03:00:19
+	Finish register for tennis		}
+
+3/13/2012 03:00:19
+Register data for basketball at:1331424000	{
+
+3/13/2012 03:00:32
+	Finish register for basketball		}
+
+3/13/2012 03:00:32
+Register data for hockey at:1331424000	{
+
+3/13/2012 03:00:42
+	Finish register for hockey		}
+
+3/13/2012 03:00:42
+Register data for handball at:1331424000	{
+
+3/13/2012 03:00:50
+	Finish register for handball		}
+
+3/13/2012 03:00:50
+Register data for volleyball at:1331424000	{
+
+3/13/2012 03:01:01
+   at ssc.games.TotalUpdater._registerData(String gameData) in D:\WWWWW-WORK\FlashScore-Scrape\SiteScrap-c#\ssc\games\TotalUpdater.cs:line 143
+
+3/13/2012 03:01:01
+	Finish register for volleyball		}
+
+3/13/2012 03:01:01
+Register data for baseball at:1331424000	{
+
+3/13/2012 03:01:04
+	Finish register for baseball		}
+
+3/13/2012 03:01:15
+============GameData for : 2012/03/12============
+
+3/13/2012 03:01:40
+Register data for soccer at:1331510400	{
+
+3/13/2012 03:02:03
+   at ssc.games.TotalUpdater._registerData(String gameData) in D:\WWWWW-WORK\FlashScore-Scrape\SiteScrap-c#\ssc\games\TotalUpdater.cs:line 143
+
+3/13/2012 03:02:04
+	Finish register for soccer		}
+
+3/13/2012 03:02:04
+Register data for tennis at:1331510400	{
+
+3/13/2012 03:02:16
+   at ssc.games.TotalUpdater._registerData(String gameData) in D:\WWWWW-WORK\FlashScore-Scrape\SiteScrap-c#\ssc\games\TotalUpdater.cs:line 143
+
+3/13/2012 03:02:16
+	Finish register for tennis		}
+
+3/13/2012 03:02:16
+Register data for basketball at:1331510400	{
+
+3/13/2012 03:02:20
+	Finish register for basketball		}
+
+3/13/2012 03:02:20
+Register data for hockey at:1331510400	{
+
+3/13/2012 03:02:27
+	Finish register for hockey		}
+
+3/13/2012 03:02:31
+Register data for handball at:1331510400	{
+
+3/13/2012 03:02:37
+	Finish register for handball		}
+
+3/13/2012 03:02:38
+Register data for volleyball at:1331510400	{
+
+3/13/2012 03:02:41
+	Finish register for volleyball		}
+
+3/13/2012 03:02:44
+Register data for baseball at:1331510400	{
+
+3/13/2012 03:02:47
+	Finish register for baseball		}
+
+3/13/2012 03:02:48
+============GameData for : 2012/03/13============
+
+3/13/2012 03:02:49
+Register data for soccer at:1331596800	{
+
+3/13/2012 03:03:12
+	Finish register for soccer		}
+
+3/13/2012 03:03:15
+Register data for tennis at:1331596800	{
+
+3/13/2012 03:03:24
+   at ssc.games.TotalUpdater._registerData(String gameData) in D:\WWWWW-WORK\FlashScore-Scrape\SiteScrap-c#\ssc\games\TotalUpdater.cs:line 143
+
+3/13/2012 03:03:27
+	Finish register for tennis		}
+
+3/13/2012 03:03:27
+Register data for basketball at:1331596800	{
+
+3/13/2012 03:03:33
+	Finish register for basketball		}
+
+3/13/2012 03:03:33
+Register data for hockey at:1331596800	{
+
+3/13/2012 03:03:38
+   at ssc.games.TotalUpdater._registerData(String gameData) in D:\WWWWW-WORK\FlashScore-Scrape\SiteScrap-c#\ssc\games\TotalUpdater.cs:line 143
+
+3/13/2012 03:03:38
+	Finish register for hockey		}
+
+3/13/2012 03:03:38
+Register data for handball at:1331596800	{
+
+3/13/2012 03:03:40
+	Finish register for handball		}
+
+3/13/2012 03:03:40
+Register data for volleyball at:1331596800	{
+
+3/13/2012 03:03:44
+	Finish register for volleyball		}
+
+3/13/2012 03:03:44
+Register data for baseball at:1331596800	{
+
+3/13/2012 03:03:47
+	Finish register for baseball		}
+
+3/13/2012 03:04:24
+Mysql connection established.
+
+3/13/2012 03:04:24
+Grab Started.
+
+3/13/2012 03:04:26
+============GameData for : 2012/03/09============
+
+3/13/2012 03:04:26
+Register data for soccer at:1331251200	{
+
+3/13/2012 03:04:43
+   at ssc.games.TotalUpdater._registerData(String gameData) in D:\WWWWW-WORK\FlashScore-Scrape\SiteScrap-c#\ssc\games\TotalUpdater.cs:line 143
+
+3/13/2012 03:04:43
+	Finish register for soccer		}
+
+3/13/2012 03:04:43
+Register data for tennis at:1331251200	{
+
+3/13/2012 03:04:52
+   at ssc.games.TotalUpdater._registerData(String gameData) in D:\WWWWW-WORK\FlashScore-Scrape\SiteScrap-c#\ssc\games\TotalUpdater.cs:line 143
+
+3/13/2012 03:04:52
+	Finish register for tennis		}
+
+3/13/2012 03:04:52
+Register data for basketball at:1331251200	{
+
+3/13/2012 03:04:56
+   at ssc.games.TotalUpdater._registerData(String gameData) in D:\WWWWW-WORK\FlashScore-Scrape\SiteScrap-c#\ssc\games\TotalUpdater.cs:line 143
+
+3/13/2012 03:04:56
+	Finish register for basketball		}
+
+3/13/2012 03:04:56
+Register data for hockey at:1331251200	{
+
+3/13/2012 03:05:02
+   at ssc.games.TotalUpdater._registerData(String gameData) in D:\WWWWW-WORK\FlashScore-Scrape\SiteScrap-c#\ssc\games\TotalUpdater.cs:line 143
+
+3/13/2012 03:05:02
+	Finish register for hockey		}
+
+3/13/2012 03:05:02
+Register data for handball at:1331251200	{
+
+3/13/2012 03:05:04
+	Finish register for handball		}
+
+3/13/2012 03:05:04
+Register data for volleyball at:1331251200	{
+
+3/13/2012 03:05:22
+Mysql connection established.
+
+3/13/2012 03:05:25
+Grab Started.
+
+3/13/2012 03:05:47
+============GameData for : 2012/03/09============
+
+3/13/2012 03:06:17
+Register data for soccer at:1331251200	{
+
+3/13/2012 03:06:38
+	Finish register for soccer		}
+
+3/13/2012 03:06:42
+Register data for tennis at:1331251200	{
+
+3/13/2012 03:08:20
+   at ssc.games.TotalUpdater._registerData(String gameData) in D:\WWWWW-WORK\FlashScore-Scrape\SiteScrap-c#\ssc\games\TotalUpdater.cs:line 143
+
+3/13/2012 03:08:27
+	Finish register for tennis		}
+
+3/13/2012 03:08:30
+Register data for basketball at:1331251200	{
+
+3/13/2012 03:10:16
+   at ssc.games.TotalUpdater._registerData(String gameData) in D:\WWWWW-WORK\FlashScore-Scrape\SiteScrap-c#\ssc\games\TotalUpdater.cs:line 143
+
+3/13/2012 03:12:20
+Mysql connection established.
+
+3/13/2012 03:12:24
+Grab Started.
+
+3/13/2012 03:12:28
+============GameData for : 2012/03/09============
+
+3/13/2012 03:12:28
+Register data for soccer at:1331251200	{
+

@@ -1,0 +1,46 @@
+C:\Users\saf\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\saf\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\ssc.Form1.resources
+C:\Users\saf\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\SiteScrapper.csproj.GenerateResource.Cache
+C:\Users\saf\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\WinFlashScore.exe
+C:\Users\saf\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\WinFlashScore.pdb
+C:\Users\saf\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\ssc.Properties.Resources.resources
+C:\Users\saf\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WinFlashScore.exe
+C:\Users\saf\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WinFlashScore.pdb
+C:\Users\saf\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\WinFlashScore.exe.config
+F:\Work\SiteScrap-c#\bin\Release\WinFlashScore.exe.config
+F:\Work\SiteScrap-c#\bin\Release\WinFlashScore.exe
+F:\Work\SiteScrap-c#\bin\Release\WinFlashScore.pdb
+F:\Work\SiteScrap-c#\obj\x86\Release\ResolveAssemblyReference.cache
+F:\Work\SiteScrap-c#\obj\x86\Release\ssc.Form1.resources
+F:\Work\SiteScrap-c#\obj\x86\Release\ssc.Properties.Resources.resources
+F:\Work\SiteScrap-c#\obj\x86\Release\SiteScrapper.csproj.GenerateResource.Cache
+F:\Work\SiteScrap-c#\obj\x86\Release\WinFlashScore.exe
+F:\Work\SiteScrap-c#\obj\x86\Release\WinFlashScore.pdb
+D:\WWWWW-WORK\SiteScrap-c#\bin\Release\WinFlashScore.exe.config
+D:\WWWWW-WORK\SiteScrap-c#\obj\x86\Release\WinFlashScore.exe
+D:\WWWWW-WORK\SiteScrap-c#\obj\x86\Release\WinFlashScore.pdb
+D:\WWWWW-WORK\SiteScrap-c#\bin\Release\WinFlashScore.exe
+D:\WWWWW-WORK\SiteScrap-c#\bin\Release\WinFlashScore.pdb
+D:\WWWWW-WORK\SiteScrap-c#\obj\x86\Release\ResolveAssemblyReference.cache
+D:\WWWWW-WORK\SiteScrap-c#\obj\x86\Release\ssc.Form1.resources
+D:\WWWWW-WORK\SiteScrap-c#\obj\x86\Release\ssc.Properties.Resources.resources
+D:\WWWWW-WORK\SiteScrap-c#\obj\x86\Release\SiteScrapper.csproj.GenerateResource.Cache
+D:\WWWWW-WORK\FlashScore-Scrape\SiteScrap-c#\bin\Release\WinFlashScore.exe.config
+D:\WWWWW-WORK\FlashScore-Scrape\SiteScrap-c#\obj\x86\Release\WinFlashScore.pdb
+D:\WWWWW-WORK\FlashScore-Scrape\SiteScrap-c#\bin\Release\WinFlashScore.exe
+D:\WWWWW-WORK\FlashScore-Scrape\SiteScrap-c#\bin\Release\WinFlashScore.pdb
+D:\WWWWW-WORK\FlashScore-Scrape\SiteScrap-c#\obj\x86\Release\ResolveAssemblyReference.cache
+D:\WWWWW-WORK\FlashScore-Scrape\SiteScrap-c#\obj\x86\Release\ssc.Form1.resources
+D:\WWWWW-WORK\FlashScore-Scrape\SiteScrap-c#\obj\x86\Release\ssc.Properties.Resources.resources
+D:\WWWWW-WORK\FlashScore-Scrape\SiteScrap-c#\obj\x86\Release\SiteScrapper.csproj.GenerateResource.Cache
+D:\WWWWW-WORK\FlashScore-Scrape\SiteScrap-c#\obj\x86\Release\WinFlashScore.exe
+D:\WWWWW-WORK\z FlashScore-Scrape\SiteScrap-c#\bin\Release\WinFlashScore.exe.config
+D:\WWWWW-WORK\z FlashScore-Scrape\SiteScrap-c#\obj\x86\Release\WinFlashScore.exe
+D:\WWWWW-WORK\z FlashScore-Scrape\SiteScrap-c#\obj\x86\Release\WinFlashScore.pdb
+D:\WWWWW-WORK\z FlashScore-Scrape\SiteScrap-c#\bin\Release\WinFlashScore.exe
+D:\WWWWW-WORK\z FlashScore-Scrape\SiteScrap-c#\bin\Release\WinFlashScore.pdb
+D:\WWWWW-WORK\z FlashScore-Scrape\SiteScrap-c#\obj\x86\Release\ResolveAssemblyReference.cache
+D:\WWWWW-WORK\z FlashScore-Scrape\SiteScrap-c#\obj\x86\Release\ssc.Form1.resources
+D:\WWWWW-WORK\z FlashScore-Scrape\SiteScrap-c#\obj\x86\Release\ssc.Properties.Resources.resources
+D:\WWWWW-WORK\z FlashScore-Scrape\SiteScrap-c#\obj\x86\Release\GenerateResource-ResGen.read.1.tlog
+D:\WWWWW-WORK\z FlashScore-Scrape\SiteScrap-c#\obj\x86\Release\GenerateResource-ResGen.write.1.tlog

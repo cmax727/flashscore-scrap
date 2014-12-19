@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<appSettings2>
+	<add key="connectionString" value="SERVER=191.168.0.37;DATABASE=ssc;UID=root;PASSWORD=admin;charset=utf-8;" />
+	<add key="ClientSettingsProvider.ServiceUri" value="" />
+</appSettings2>

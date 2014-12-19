@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<appSettings2>
+	<add key="connectionString" value="SERVER=LOCALHOST;DATABASE=ssc;UID=root;PASSWORD=root;charset=utf-8;" />
+	<add key="ClientSettingsProvider.ServiceUri" value="" />
+</appSettings2>
